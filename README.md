@@ -1,4 +1,4 @@
-# Simple Non-Persistent CRUD in React
+# Simple Non-Persistent CRUD in ReactJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
